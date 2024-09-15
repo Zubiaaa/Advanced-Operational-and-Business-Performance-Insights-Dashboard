@@ -1,4 +1,4 @@
-# Business Case: Data visualization for operational business use
+# Business Case Study: Data visualization for operational business use
 
 XYZ business collates and sells airport taxi services to customers through ‘partners’ who deliver the experience. Because they work with partners, they need to be sure they can track and manage the quality of the service they’re delivering so the Partner Services team can approach any performance issues quickly and efficiently.
 
