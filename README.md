@@ -8,8 +8,8 @@ The dataset consists of a fact table (fact transactions) and a few optional dim 
 
 ##	Question/Use Case
 
-1	As a partner services account manager, I need to be able to see performance of my partners over time, to know who’s declining or improving, explain how your dashboard achieves this?
+1.	As a partner services account manager, I need to be able to see performance of my partners over time, to know who’s declining or improving, explain how your dashboard achieves this?
 
-2	As a partner services team leader, I need a quick snapshot of overall performance of the partners in our business, explain how your dashboard achieves this?
+2.	As a partner services team leader, I need a quick snapshot of overall performance of the partners in our business, explain how your dashboard achieves this?
 
-3	Do you think this business has any large scale problems with quality they should look to solve immediately? If so, what are they?
+3.	Do you think this business has any large scale problems with quality they should look to solve immediately? If so, what are they?
